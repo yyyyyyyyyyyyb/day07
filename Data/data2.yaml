@@ -1,0 +1,7 @@
+#info1: {"name":"lili","age":"18"}
+#info2:
+##  name : "lili"
+##  age : "18"
+info:
+  - name: "张三"
+  - name: "李四"
